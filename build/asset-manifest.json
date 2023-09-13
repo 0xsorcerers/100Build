@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.df071f54.css",
+    "main.js": "./static/js/main.f2edff68.js",
+    "static/js/725.c088723e.chunk.js": "./static/js/725.c088723e.chunk.js",
+    "static/media/wave.gif": "./static/media/wave.e1a71739dcb68192cd37.gif",
+    "static/media/NNPP.png": "./static/media/NNPP.a530e0265788e83d442d.png",
+    "static/media/Nexa-Heavy.ttf": "./static/media/Nexa-Heavy.13e16a1c3c48dd492fa9.ttf",
+    "static/media/LP.png": "./static/media/LP.d68769f0ab59698204ea.png",
+    "static/media/PDP.png": "./static/media/PDP.ee3970eeb565f70a9a2d.png",
+    "static/media/peterobi.png": "./static/media/peterobi.0a0b9b7d1095b1a255b8.png",
+    "static/media/EvilEmpire.ttf": "./static/media/EvilEmpire.e3f442056830a75d62a8.ttf",
+    "static/media/REALVIRTUE.ttf": "./static/media/REALVIRTUE.d206df3bf74bb1846fac.ttf",
+    "static/media/APC.png": "./static/media/APC.e009f7f85ff759a6062a.png",
+    "static/media/logo.png": "./static/media/logo.8f827891a88443dfa86a.png",
+    "static/media/logout.png": "./static/media/logout.d2c2e2430d6c9c20876d.png",
+    "static/media/tinubu.jpg": "./static/media/tinubu.4838d9f5b19370b79a09.jpg",
+    "static/media/atiku.jpg": "./static/media/atiku.d2d4d5e87eaaade13bd4.jpg",
+    "static/media/rabiu.jpg": "./static/media/rabiu.a6bbf977ce3c1466272b.jpg",
+    "static/media/logo_w_txt.png": "./static/media/logo_w_txt.d39cb2c7dd8e8d033f6f.png",
+    "index.html": "./index.html",
+    "main.df071f54.css.map": "./static/css/main.df071f54.css.map",
+    "main.f2edff68.js.map": "./static/js/main.f2edff68.js.map",
+    "725.c088723e.chunk.js.map": "./static/js/725.c088723e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df071f54.css",
+    "static/js/main.f2edff68.js"
+  ]
+}
